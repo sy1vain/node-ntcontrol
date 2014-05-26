@@ -1,0 +1,15 @@
+{
+	"name": "ntcontrol",
+	"version": "0.1.0",
+	"description": "Control for NTControl systems",
+	"author": "Sylvain Vriens <hello@sylvain.nl> (http://sylvain.nl/)",
+	"main": "./index",
+	"dependencies": {
+		"extend": "x"
+	},
+	"repository":
+	{
+		"type" : "git",
+		"url" : "https://github.com/sy1vain/node-ntcontrol.git"
+	}
+}
